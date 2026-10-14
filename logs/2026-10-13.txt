@@ -1,0 +1,14 @@
+2026-10-13 | домашний сбор
+Запусков за день: 1
+Первый снимок: 17:43
+Последний снимок: 17:43
+Покрытие окна: 0 ч, суммарно 0 мин (~0% суток)
+Пропуски (>45 мин): 0
+Skinport items: 200, записей 25142
+Skinport history: 200
+Предметов с min_price=null: 0
+Топ-3 по волатильности:
+  ★ StatTrak™ M9 Bayonet | Doppler (Factory New): +729.64%
+  ★ StatTrak™ Bowie Knife | Gamma Doppler (Factory New): +590.69%
+  ★ Karambit | Doppler (Factory New): +560.45%
+Ошибки: нет
