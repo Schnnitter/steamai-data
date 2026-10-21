@@ -1,0 +1,6 @@
+2026-10-21 | cloud collect
+
+CS2: snapshots=5 items=24970
+DOTA2: snapshots=5 items=11470
+TF2: snapshots=5 items=6490
+RUST: snapshots=5 items=5498
